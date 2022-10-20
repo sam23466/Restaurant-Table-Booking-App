@@ -8,3 +8,6 @@ Team Members:
 
 Software used: Android Studio
 HTMl, CSS, Javascript
+
+Code uploaded as a Zip file.
+Attached document for pics of the apps
