@@ -5,3 +5,5 @@ Team Members:
 1. Soham Nanavati
 2. Avrati Motwani
 3. Tejasram Ramesh
+
+Software used: Android Studio
