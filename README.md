@@ -7,3 +7,4 @@ Team Members:
 3. Tejasram Ramesh
 
 Software used: Android Studio
+HTMl, CSS, Javascript
